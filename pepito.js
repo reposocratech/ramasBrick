@@ -1,5 +1,7 @@
 console.log("pepito");
 
+const hola = ["María", "Pepito", "Soraya"]
+console.log(hola)
 
 let cestaDeLaCompra = ["manzanas", "peras", "pescado", "leche", "huevos"]
 console.log("Esto es una prueba")
