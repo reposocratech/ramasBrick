@@ -2,6 +2,10 @@ console.log("config");
 
 console.log("cuadrado rojo");
 
-let sumar = (a, b)=>{
+let suma = (a, b)=>{
   return a + b;
+}
+
+let resta = (a, b)=>{
+  return a - b;
 }
