@@ -5,3 +5,5 @@ for (let i = 0; i < 10; i++) {
 }
 
 console.log('Qué pasa tetes!?');
+let nombre = "yasmine"
+console.log(nombre);
