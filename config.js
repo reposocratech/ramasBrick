@@ -16,7 +16,7 @@ let multiplicar = (a, b) => a * b;
 console.log(restar(4, 2));
 console.log(dividir(4, 2));
 console.log(multiplicar(4, 2));
-const coche = [
+const chochete = [
   c1 = "verde"
 ]
 
