@@ -9,4 +9,11 @@ let multiplicar = (a, b) => a * b;
 console.log(restar(4, 2));
 console.log(dividir(4, 2));
 console.log(multiplicar(4, 2));
+const choche = [
+  c1 = "verde"
+]
+
+let sumar = (a, b) =>{
+    return a + b
+}
 
