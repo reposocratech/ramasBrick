@@ -2,6 +2,11 @@ console.log("config");
 
 console.log("cuadrado rojo");
 
+
+let myArr = ["Dickson", "Mayass", "Rosa", "Melano"]
+
+console.log(myArr[2] + "," + myArr[3]);
+
 let restar = (a, b)=>{
   return a-b
 }
